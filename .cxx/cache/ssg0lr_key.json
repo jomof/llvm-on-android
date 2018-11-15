@@ -1,0 +1,17 @@
+{
+  "gradlePluginVersion": "3.4.0-dev",
+  "ndkInstallationFolder": {
+    "path": "/Users/jomof/Library/Android/sdk/ndk-bundle"
+  },
+  "ndkSourceProperties": {
+    "map": {
+      "Pkg.Desc": "Android NDK",
+      "Pkg.Revision": "18.0.5002713"
+    }
+  },
+  "args": [
+    "-DANDROID_ABI\u003dx86",
+    "-DANDROID_PLATFORM\u003dandroid-16",
+    "-DCMAKE_CXX_FLAGS\u003d"
+  ]
+}
